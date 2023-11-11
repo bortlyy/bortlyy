@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Boertly</h1>
+<h1 align="center">Hi 👋, I'm Boert</h1>
 <h3 align="center">Web Developer from Spain</h3>
 
 - 🔭 I’m currently working on **My Portfolio Resume**
