@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Portfolio Resume**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: bortly.com </h3>
 <p align="left">
 </p>
 
